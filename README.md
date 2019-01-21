@@ -1,2 +1,2 @@
-# bsv-wiki
+# BSV Wikipedia
 Wikipedia for BSV
